@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "userId": 1,
+      "title": "첫번째데이터",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "title": "두번째데이터",
+      "completed": false,
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "title": "세번째데이터",
+      "completed": false,
+      "id": 3
+    }
+  ]
+}
